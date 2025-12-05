@@ -183,8 +183,8 @@ We also used the following KITTI color and class mapping table in <a href="./pro
 <b>train_eval_infer.config</b></a> file 
 to define a rgb_map for our mask format between indexed colors and rgb colors.
 For more details on Cityscapes labels, please refer to <a href='https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py'>labels.py</a>
-<br><br>
-<a id="color_map">KITTI color-class-mapping-table</a><br>
+<br>
+<a id="color_map">KITTI color-class-mapping-table</a><br><br>
 <table border=1 style='border-collapse:collapse;' cellpadding='5'>
 <caption>KITTI semantic segmentation 19 classes</caption>
 <tr><th>Indexed Color</th><th>ID</th><th>Color</th><th>RGB</th><th>Class</th></tr>
