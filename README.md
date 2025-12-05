@@ -184,7 +184,7 @@ We also used the following KITTI color and class mapping table in <a href="./pro
 to define a rgb_map for our mask format between indexed colors and rgb colors.
 For more details on Cityscapes labels, please refer to <a href='https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py'>labels.py</a>
 <br><br>
-<a id="color_map">
+<a id="color_map">KITTI color-class-mapping-table</a>
 <table border=1 style='border-collapse:collapse;' cellpadding='5'>
 <caption>KITTI semantic segmentation 19 classes</caption>
 <tr><th>Indexed Color</th><th>ID</th><th>Color</th><th>RGB</th><th>Class</th></tr>
@@ -208,7 +208,7 @@ For more details on Cityscapes labels, please refer to <a href='https://github.c
 <tr><td>18</td><td>32</td><td with='80' height='auto'><img src='./color_class_mapping/motorcycle.png' widith='40' height='25'></td><td>(0, 0, 230)</td><td>motorcycle</td></tr>
 <tr><td>19</td><td>33</td><td with='80' height='auto'><img src='./color_class_mapping/bicycle.png' widith='40' height='25'></td><td>(119, 11, 32)</td><td>bicycle</td></tr>
 </table>
-</a>
+
 <br><br>
 <h4>2.3 Tiled Image and Mask Samples</h4>
 
